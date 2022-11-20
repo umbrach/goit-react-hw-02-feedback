@@ -1,0 +1,12 @@
+.section {
+  margin: 20px;
+
+}
+
+.title {
+  padding: 10px;
+    font-family: 'Montserrat';
+  font-size: 32px;
+  font-weight: 700;
+  text-transform: capitalize;
+}
